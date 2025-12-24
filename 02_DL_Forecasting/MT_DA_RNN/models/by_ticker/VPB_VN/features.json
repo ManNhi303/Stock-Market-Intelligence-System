@@ -1,0 +1,1 @@
+{"features": ["open_pct_change", "high_pct_change", "low_pct_change", "close_pct_change", "volume_pct_change", "SMA_10_pct_change", "EMA_10_pct_change", "MACD_pct_change", "BB_upper_pct_change", "BB_lower_pct_change", "ATR_14_pct_change", "RSI_14", "ADX_14", "STOCHk_14_3_3"]}
