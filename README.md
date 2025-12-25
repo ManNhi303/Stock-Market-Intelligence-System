@@ -63,11 +63,11 @@ To validate the real-world utility, I built a backtesting engine to evaluate mod
 
 ## 📊 Interactive Power BI Dashboards
 
-### 📍 Market Macro Overview
+### 📍 Market Overview
 ![Market Overview](03_Visualizations/dashboard_1.png)
 *Provides a view of market performance, volume trends, and interactive filtering by ticker.*
 
-### 📍 Technical Deep Dive (15-min Intervals)
+### 📍 Daily Detail
 ![Technical Details](03_Visualizations/dashboard_2.png)
 
 ---
