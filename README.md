@@ -39,12 +39,12 @@ I implemented the **Multi-Task Dual-Stage Attention-Based RNN** to solve the com
 
 ### 1. Input Attention (Feature Importance)
 This mechanism identifies which technical indicators are most influential for the current forecast.
-![Input Attention](03_Visualizations/Input Attention.png)
+![Input Attention](03_Visualizations/input_attention.png)
 *Figure: Analysis revealed that **Lower Bollinger Bands** and **ADX** are key predictors for identifying trend reversals.*
 
 ### 2. Temporal Attention (Time Dynamics)
 This mechanism identifies which past time steps within a 15-day window are most relevant. 
-![Temporal Attention](03_Visualizations/Temporal Attention.png)
+![Temporal Attention](03_Visualizations/temporal_attention.png)
 *Figure: The model successfully captured **long-lag patterns** (high weights at T-14), allowing it to recognize trend inception points rather than just reacting to the latest price.*
 
 ### 🚀 Multi-task Learning Results
